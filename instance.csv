@@ -1,4 +1,4 @@
 RPS, Task ms Duration (s), CPU, Memory, EC2 t3.medium, EC2 m5.large
 100, 0.04, 4, 4, 2, 1
 200, 0.04, 8, 8, 4, 2
-400, 0.04, 8, 8, 8, 4
+400, 0.04, 16, 16, 8, 4
